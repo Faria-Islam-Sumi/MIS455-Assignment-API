@@ -1,0 +1,31 @@
+#search-btn {
+    margin-top: 30px;
+}
+#country-list {
+    margin-top: 30px;
+}
+.modal-content {
+    border-radius: 0;
+}
+.modal-header {
+    background-color: #343a40;
+    color: #fff;
+}
+.modal-title {
+    font-weight: bold;
+}
+#country-flag {
+    height: 200px;
+}
+.table {
+    margin-top: 20px;
+}
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #343a40;
+    color: #fff;
+    padding: 10px 0;
+}
+
